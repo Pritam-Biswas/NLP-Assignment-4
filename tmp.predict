@@ -1,0 +1,396 @@
+<Context_1/bright.a During the siege , George Robertson had appointed Shuja-ul-Mulk , who was a *bright* boy only 12 years old and the youngest surviving son of Aman-ul-Mulk , as the ruler of Chitral .>
+{'bright': 10, 'brilliant': 2, 'vivid': 1, 'smart': 1, 'burnished': 1, 'lustrous': 1, 'shining': 1, 'shiny': 1, 'undimmed': 1, 'hopeful': 1, 'promising': 1}
+bright :::: a ::::: 1 :::::: promising
+<Context_2/bright.a The actual field is not much different than that of a 40mm , only it is smaller and quite a bit noticeably *brighter* , which is probably the main benefit .>
+{'bright': 10, 'brilliant': 2, 'vivid': 1, 'smart': 1, 'burnished': 1, 'lustrous': 1, 'shining': 1, 'shiny': 1, 'undimmed': 1, 'hopeful': 1, 'promising': 1}
+bright :::: a ::::: 2 :::::: promising
+<Context_3/bright.a The roses have grown out of control , wild and carefree , their *bright* blooming faces turned to bathe in the early autumn sun .>
+{'bright': 10, 'brilliant': 2, 'vivid': 1, 'smart': 1, 'burnished': 1, 'lustrous': 1, 'shining': 1, 'shiny': 1, 'undimmed': 1, 'hopeful': 1, 'promising': 1}
+bright :::: a ::::: 3 :::::: promising
+<Context_4/bright.a He was *bright* and independent and proud .>
+{'bright': 10, 'brilliant': 2, 'vivid': 1, 'smart': 1, 'burnished': 1, 'lustrous': 1, 'shining': 1, 'shiny': 1, 'undimmed': 1, 'hopeful': 1, 'promising': 1}
+bright :::: a ::::: 4 :::::: promising
+<Context_5/bright.a In fact , during at least six distinct periods in Army history since World War I , lack of trust and confidence in senior leaders caused the so-called best and *brightest* to leave the Army in droves .>
+{'bright': 10, 'brilliant': 2, 'vivid': 1, 'smart': 1, 'burnished': 1, 'lustrous': 1, 'shining': 1, 'shiny': 1, 'undimmed': 1, 'hopeful': 1, 'promising': 1}
+bright :::: a ::::: 5 :::::: promising
+<Context_6/bright.a An evening of classical symphonic music , played by the next generation stars in the American orchestral scene , can be savored at the New World Symphony , a special Miami institution that nurtures the best and *brightest* young symphonic musicians .>
+{'bright': 10, 'brilliant': 2, 'vivid': 1, 'smart': 1, 'burnished': 1, 'lustrous': 1, 'shining': 1, 'shiny': 1, 'undimmed': 1, 'hopeful': 1, 'promising': 1}
+bright :::: a ::::: 6 :::::: promising
+<Context_7/bright.a There are sound reasons for concluding that the long-run picture remains *bright* , and even recent signals about the current course of the economy have turned from unremittingly negative through the late fall of last year to a far more mixed set of signals recently .>
+{'bright': 10, 'brilliant': 2, 'vivid': 1, 'smart': 1, 'burnished': 1, 'lustrous': 1, 'shining': 1, 'shiny': 1, 'undimmed': 1, 'hopeful': 1, 'promising': 1}
+bright :::: a ::::: 7 :::::: promising
+<Context_8/bright.a Snow covered areas appear *bright* blue in the image which was taken in early spring and shows deep snow cover .>
+{'bright': 10, 'brilliant': 2, 'vivid': 1, 'smart': 1, 'burnished': 1, 'lustrous': 1, 'shining': 1, 'shiny': 1, 'undimmed': 1, 'hopeful': 1, 'promising': 1}
+bright :::: a ::::: 8 :::::: promising
+<Context_9/bright.a She turns eyes *bright* with excitement towards Fiona , still tugging on the string of the minitiature airship-cum-dance card she has just received at the door .>
+{'bright': 10, 'brilliant': 2, 'vivid': 1, 'smart': 1, 'burnished': 1, 'lustrous': 1, 'shining': 1, 'shiny': 1, 'undimmed': 1, 'hopeful': 1, 'promising': 1}
+bright :::: a ::::: 9 :::::: promising
+<Context_10/bright.a A short excerpt : I was praying in private until someone got the *bright* idea of starting a Presidential Prayer Team .>
+{'bright': 10, 'brilliant': 2, 'vivid': 1, 'smart': 1, 'burnished': 1, 'lustrous': 1, 'shining': 1, 'shiny': 1, 'undimmed': 1, 'hopeful': 1, 'promising': 1}
+bright :::: a ::::: 10 :::::: promising
+<Context_11/film.n So , unlike studio films , independent *films* cannot be conceptually geared to a marketing campaign , or used to recruit merchandising tie-ins .>
+{'movie': 1, 'film': 5, 'picture': 1, 'moving_picture': 1, 'moving-picture_show': 1, 'motion_picture': 1, 'motion-picture_show': 1, 'picture_show': 1, 'pic': 1, 'flick': 1, 'cinema': 1, 'celluloid': 1, 'photographic_film': 1, 'plastic_film': 1}
+film :::: n ::::: 11 :::::: plastic_film
+<Context_12/film.n The packed screening of about 100 high-level press people loved the *film* as well .>
+{'movie': 1, 'film': 5, 'picture': 1, 'moving_picture': 1, 'moving-picture_show': 1, 'motion_picture': 1, 'motion-picture_show': 1, 'picture_show': 1, 'pic': 1, 'flick': 1, 'cinema': 1, 'celluloid': 1, 'photographic_film': 1, 'plastic_film': 1}
+film :::: n ::::: 12 :::::: plastic_film
+<Context_13/film.n I think most filmmakers for the most part right now they�re thinking about the DVD when they go in to production because the reality is DVD is where the great majority of your audience is going to experience the *film* .>
+{'movie': 1, 'film': 5, 'picture': 1, 'moving_picture': 1, 'moving-picture_show': 1, 'motion_picture': 1, 'motion-picture_show': 1, 'picture_show': 1, 'pic': 1, 'flick': 1, 'cinema': 1, 'celluloid': 1, 'photographic_film': 1, 'plastic_film': 1}
+film :::: n ::::: 13 :::::: plastic_film
+<Context_14/film.n Dune makes the second Lynch *film* to be released in a consumer HD format ( Mulholland Drive on D-VHS being the first ) .>
+{'movie': 1, 'film': 5, 'picture': 1, 'moving_picture': 1, 'moving-picture_show': 1, 'motion_picture': 1, 'motion-picture_show': 1, 'picture_show': 1, 'pic': 1, 'flick': 1, 'cinema': 1, 'celluloid': 1, 'photographic_film': 1, 'plastic_film': 1}
+film :::: n ::::: 14 :::::: plastic_film
+<Context_15/film.n Film Music Literature Cyberplace - Includes *film* reviews , message boards , chat room , and images from various films .>
+{'movie': 1, 'film': 5, 'picture': 1, 'moving_picture': 1, 'moving-picture_show': 1, 'motion_picture': 1, 'motion-picture_show': 1, 'picture_show': 1, 'pic': 1, 'flick': 1, 'cinema': 1, 'celluloid': 1, 'photographic_film': 1, 'plastic_film': 1}
+film :::: n ::::: 15 :::::: plastic_film
+<Context_16/film.n His feature *film* debut HEROES / DE ST&#195;&#152;RSTE HELTE ( 1996 ) won awards at Rouen and Madrid .>
+{'movie': 1, 'film': 5, 'picture': 1, 'moving_picture': 1, 'moving-picture_show': 1, 'motion_picture': 1, 'motion-picture_show': 1, 'picture_show': 1, 'pic': 1, 'flick': 1, 'cinema': 1, 'celluloid': 1, 'photographic_film': 1, 'plastic_film': 1}
+film :::: n ::::: 16 :::::: plastic_film
+<Context_17/film.n ( Some people keep their TVs on for company. ) In Malta , news is the main reason we turn to TV , followed by *films* , talk shows , documentaries , serials , and music , in that order .>
+{'movie': 1, 'film': 5, 'picture': 1, 'moving_picture': 1, 'moving-picture_show': 1, 'motion_picture': 1, 'motion-picture_show': 1, 'picture_show': 1, 'pic': 1, 'flick': 1, 'cinema': 1, 'celluloid': 1, 'photographic_film': 1, 'plastic_film': 1}
+film :::: n ::::: 17 :::::: plastic_film
+<Context_18/film.n The *film* shows Afghan mercenaries to be involved with the separatists , suggesting that the present struggle in Kashmir has been hijacked by foreign extremists , who are shown discussing the loss of Bangladesh in the 1971 war , providing it as a justification for their present acts of revenge .>
+{'movie': 1, 'film': 5, 'picture': 1, 'moving_picture': 1, 'moving-picture_show': 1, 'motion_picture': 1, 'motion-picture_show': 1, 'picture_show': 1, 'pic': 1, 'flick': 1, 'cinema': 1, 'celluloid': 1, 'photographic_film': 1, 'plastic_film': 1}
+film :::: n ::::: 18 :::::: plastic_film
+<Context_19/film.n A fine score by George Fenton ( THE CRUCIBLE ) and beautiful photograhy by Roger Pratt add greatly to the effectiveness of the *film* .>
+{'movie': 1, 'film': 5, 'picture': 1, 'moving_picture': 1, 'moving-picture_show': 1, 'motion_picture': 1, 'motion-picture_show': 1, 'picture_show': 1, 'pic': 1, 'flick': 1, 'cinema': 1, 'celluloid': 1, 'photographic_film': 1, 'plastic_film': 1}
+film :::: n ::::: 19 :::::: plastic_film
+<Context_20/film.n The success of Autry ' s early *films* was not enough to save Mascot Pictures , which collapsed under the weight of debts held by Consolidated Film Laboratories , which did Mascot 's film processing .>
+{'movie': 1, 'film': 5, 'picture': 1, 'moving_picture': 1, 'moving-picture_show': 1, 'motion_picture': 1, 'motion-picture_show': 1, 'picture_show': 1, 'pic': 1, 'flick': 1, 'cinema': 1, 'celluloid': 1, 'photographic_film': 1, 'plastic_film': 1}
+film :::: n ::::: 20 :::::: plastic_film
+<Context_21/take.v That 's not to say the process of actual negotiating is n't *taking* place .>
+{'take': 42, 'occupy': 2, 'use_up': 1, 'lead': 1, 'direct': 2, 'conduct': 1, 'guide': 1, 'get_hold_of': 1, 'assume': 2, 'acquire': 1, 'adopt': 1, 'take_on': 2, 'read': 2, 'bring': 1, 'convey': 1, 'choose': 1, 'select': 1, 'pick_out': 1, 'accept': 4, 'have': 3, 'fill': 1, 'consider': 1, 'deal': 1, 'look_at': 1, 'necessitate': 1, 'ask': 1, 'postulate': 1, 'need': 1, 'require': 1, 'involve': 1, 'call_for': 1, 'demand': 1, 'film': 1, 'shoot': 1, 'remove': 1, 'take_away': 1, 'withdraw': 1, 'consume': 1, 'ingest': 1, 'take_in': 1, 'submit': 1, 'strike': 1, 'take_up': 1, 'admit': 1, 'learn': 1, 'study': 1, 'claim': 2, 'exact': 1, 'make': 1, 'aim': 1, 'train': 1, 'take_aim': 1, 'carry': 1, 'pack': 1, 'lease': 1, 'rent': 1, 'hire': 1, 'charter': 1, 'engage': 1, 'subscribe': 1, 'subscribe_to': 1, 'contain': 1, 'hold': 1, 'drive': 1, 'contract': 1, 'get': 1}
+take :::: v ::::: 21 :::::: get
+<Context_22/take.v " Hugh Grant and Alan Rickman , as Edward and Col. Brandon respectively , *took* the most chances and the various reviewers therefore either love or hate their performances .>
+{'take': 42, 'occupy': 2, 'use_up': 1, 'lead': 1, 'direct': 2, 'conduct': 1, 'guide': 1, 'get_hold_of': 1, 'assume': 2, 'acquire': 1, 'adopt': 1, 'take_on': 2, 'read': 2, 'bring': 1, 'convey': 1, 'choose': 1, 'select': 1, 'pick_out': 1, 'accept': 4, 'have': 3, 'fill': 1, 'consider': 1, 'deal': 1, 'look_at': 1, 'necessitate': 1, 'ask': 1, 'postulate': 1, 'need': 1, 'require': 1, 'involve': 1, 'call_for': 1, 'demand': 1, 'film': 1, 'shoot': 1, 'remove': 1, 'take_away': 1, 'withdraw': 1, 'consume': 1, 'ingest': 1, 'take_in': 1, 'submit': 1, 'strike': 1, 'take_up': 1, 'admit': 1, 'learn': 1, 'study': 1, 'claim': 2, 'exact': 1, 'make': 1, 'aim': 1, 'train': 1, 'take_aim': 1, 'carry': 1, 'pack': 1, 'lease': 1, 'rent': 1, 'hire': 1, 'charter': 1, 'engage': 1, 'subscribe': 1, 'subscribe_to': 1, 'contain': 1, 'hold': 1, 'drive': 1, 'contract': 1, 'get': 1}
+take :::: v ::::: 22 :::::: get
+<Context_23/take.v It should n't *take* that long .>
+{'take': 42, 'occupy': 2, 'use_up': 1, 'lead': 1, 'direct': 2, 'conduct': 1, 'guide': 1, 'get_hold_of': 1, 'assume': 2, 'acquire': 1, 'adopt': 1, 'take_on': 2, 'read': 2, 'bring': 1, 'convey': 1, 'choose': 1, 'select': 1, 'pick_out': 1, 'accept': 4, 'have': 3, 'fill': 1, 'consider': 1, 'deal': 1, 'look_at': 1, 'necessitate': 1, 'ask': 1, 'postulate': 1, 'need': 1, 'require': 1, 'involve': 1, 'call_for': 1, 'demand': 1, 'film': 1, 'shoot': 1, 'remove': 1, 'take_away': 1, 'withdraw': 1, 'consume': 1, 'ingest': 1, 'take_in': 1, 'submit': 1, 'strike': 1, 'take_up': 1, 'admit': 1, 'learn': 1, 'study': 1, 'claim': 2, 'exact': 1, 'make': 1, 'aim': 1, 'train': 1, 'take_aim': 1, 'carry': 1, 'pack': 1, 'lease': 1, 'rent': 1, 'hire': 1, 'charter': 1, 'engage': 1, 'subscribe': 1, 'subscribe_to': 1, 'contain': 1, 'hold': 1, 'drive': 1, 'contract': 1, 'get': 1}
+take :::: v ::::: 23 :::::: get
+<Context_24/take.v It only affects the start up time of a program , and for a process that *takes* several months ( his code was computing the 196 Palindrome Quest ) , it does not matter if the initialization code takes 1/1,000th of a second or 1/10,000th of a second .>
+{'take': 42, 'occupy': 2, 'use_up': 1, 'lead': 1, 'direct': 2, 'conduct': 1, 'guide': 1, 'get_hold_of': 1, 'assume': 2, 'acquire': 1, 'adopt': 1, 'take_on': 2, 'read': 2, 'bring': 1, 'convey': 1, 'choose': 1, 'select': 1, 'pick_out': 1, 'accept': 4, 'have': 3, 'fill': 1, 'consider': 1, 'deal': 1, 'look_at': 1, 'necessitate': 1, 'ask': 1, 'postulate': 1, 'need': 1, 'require': 1, 'involve': 1, 'call_for': 1, 'demand': 1, 'film': 1, 'shoot': 1, 'remove': 1, 'take_away': 1, 'withdraw': 1, 'consume': 1, 'ingest': 1, 'take_in': 1, 'submit': 1, 'strike': 1, 'take_up': 1, 'admit': 1, 'learn': 1, 'study': 1, 'claim': 2, 'exact': 1, 'make': 1, 'aim': 1, 'train': 1, 'take_aim': 1, 'carry': 1, 'pack': 1, 'lease': 1, 'rent': 1, 'hire': 1, 'charter': 1, 'engage': 1, 'subscribe': 1, 'subscribe_to': 1, 'contain': 1, 'hold': 1, 'drive': 1, 'contract': 1, 'get': 1}
+take :::: v ::::: 24 :::::: get
+<Context_25/take.v If we *take* the factual context in which the term is used into consideration , then its extension becomes limited , owing to the context .>
+{'take': 42, 'occupy': 2, 'use_up': 1, 'lead': 1, 'direct': 2, 'conduct': 1, 'guide': 1, 'get_hold_of': 1, 'assume': 2, 'acquire': 1, 'adopt': 1, 'take_on': 2, 'read': 2, 'bring': 1, 'convey': 1, 'choose': 1, 'select': 1, 'pick_out': 1, 'accept': 4, 'have': 3, 'fill': 1, 'consider': 1, 'deal': 1, 'look_at': 1, 'necessitate': 1, 'ask': 1, 'postulate': 1, 'need': 1, 'require': 1, 'involve': 1, 'call_for': 1, 'demand': 1, 'film': 1, 'shoot': 1, 'remove': 1, 'take_away': 1, 'withdraw': 1, 'consume': 1, 'ingest': 1, 'take_in': 1, 'submit': 1, 'strike': 1, 'take_up': 1, 'admit': 1, 'learn': 1, 'study': 1, 'claim': 2, 'exact': 1, 'make': 1, 'aim': 1, 'train': 1, 'take_aim': 1, 'carry': 1, 'pack': 1, 'lease': 1, 'rent': 1, 'hire': 1, 'charter': 1, 'engage': 1, 'subscribe': 1, 'subscribe_to': 1, 'contain': 1, 'hold': 1, 'drive': 1, 'contract': 1, 'get': 1}
+take :::: v ::::: 25 :::::: get
+<Context_26/take.v If you do n't *take* the risk of dying by driving to the store , your house could collapse on you and kill you anyway .>
+{'take': 42, 'occupy': 2, 'use_up': 1, 'lead': 1, 'direct': 2, 'conduct': 1, 'guide': 1, 'get_hold_of': 1, 'assume': 2, 'acquire': 1, 'adopt': 1, 'take_on': 2, 'read': 2, 'bring': 1, 'convey': 1, 'choose': 1, 'select': 1, 'pick_out': 1, 'accept': 4, 'have': 3, 'fill': 1, 'consider': 1, 'deal': 1, 'look_at': 1, 'necessitate': 1, 'ask': 1, 'postulate': 1, 'need': 1, 'require': 1, 'involve': 1, 'call_for': 1, 'demand': 1, 'film': 1, 'shoot': 1, 'remove': 1, 'take_away': 1, 'withdraw': 1, 'consume': 1, 'ingest': 1, 'take_in': 1, 'submit': 1, 'strike': 1, 'take_up': 1, 'admit': 1, 'learn': 1, 'study': 1, 'claim': 2, 'exact': 1, 'make': 1, 'aim': 1, 'train': 1, 'take_aim': 1, 'carry': 1, 'pack': 1, 'lease': 1, 'rent': 1, 'hire': 1, 'charter': 1, 'engage': 1, 'subscribe': 1, 'subscribe_to': 1, 'contain': 1, 'hold': 1, 'drive': 1, 'contract': 1, 'get': 1}
+take :::: v ::::: 26 :::::: get
+<Context_27/take.v The Governor *took* the big sheets of imitation parchment , glanced over them , signed his name to each , laid down the pen , and handed the papers across the table to Dreier .>
+{'take': 42, 'occupy': 2, 'use_up': 1, 'lead': 1, 'direct': 2, 'conduct': 1, 'guide': 1, 'get_hold_of': 1, 'assume': 2, 'acquire': 1, 'adopt': 1, 'take_on': 2, 'read': 2, 'bring': 1, 'convey': 1, 'choose': 1, 'select': 1, 'pick_out': 1, 'accept': 4, 'have': 3, 'fill': 1, 'consider': 1, 'deal': 1, 'look_at': 1, 'necessitate': 1, 'ask': 1, 'postulate': 1, 'need': 1, 'require': 1, 'involve': 1, 'call_for': 1, 'demand': 1, 'film': 1, 'shoot': 1, 'remove': 1, 'take_away': 1, 'withdraw': 1, 'consume': 1, 'ingest': 1, 'take_in': 1, 'submit': 1, 'strike': 1, 'take_up': 1, 'admit': 1, 'learn': 1, 'study': 1, 'claim': 2, 'exact': 1, 'make': 1, 'aim': 1, 'train': 1, 'take_aim': 1, 'carry': 1, 'pack': 1, 'lease': 1, 'rent': 1, 'hire': 1, 'charter': 1, 'engage': 1, 'subscribe': 1, 'subscribe_to': 1, 'contain': 1, 'hold': 1, 'drive': 1, 'contract': 1, 'get': 1}
+take :::: v ::::: 27 :::::: get
+<Context_28/take.v O'Neill and the two men who worked under his supervision maintained the avenue , raking the thin gravel and removing any weed that tried to *take* root in the stony earth .>
+{'take': 42, 'occupy': 2, 'use_up': 1, 'lead': 1, 'direct': 2, 'conduct': 1, 'guide': 1, 'get_hold_of': 1, 'assume': 2, 'acquire': 1, 'adopt': 1, 'take_on': 2, 'read': 2, 'bring': 1, 'convey': 1, 'choose': 1, 'select': 1, 'pick_out': 1, 'accept': 4, 'have': 3, 'fill': 1, 'consider': 1, 'deal': 1, 'look_at': 1, 'necessitate': 1, 'ask': 1, 'postulate': 1, 'need': 1, 'require': 1, 'involve': 1, 'call_for': 1, 'demand': 1, 'film': 1, 'shoot': 1, 'remove': 1, 'take_away': 1, 'withdraw': 1, 'consume': 1, 'ingest': 1, 'take_in': 1, 'submit': 1, 'strike': 1, 'take_up': 1, 'admit': 1, 'learn': 1, 'study': 1, 'claim': 2, 'exact': 1, 'make': 1, 'aim': 1, 'train': 1, 'take_aim': 1, 'carry': 1, 'pack': 1, 'lease': 1, 'rent': 1, 'hire': 1, 'charter': 1, 'engage': 1, 'subscribe': 1, 'subscribe_to': 1, 'contain': 1, 'hold': 1, 'drive': 1, 'contract': 1, 'get': 1}
+take :::: v ::::: 28 :::::: get
+<Context_29/take.v Even if the Anglo-French Summit did not *take* place until next year , the Prime Minister and President Chirac were still due to see each other in November and December .>
+{'take': 42, 'occupy': 2, 'use_up': 1, 'lead': 1, 'direct': 2, 'conduct': 1, 'guide': 1, 'get_hold_of': 1, 'assume': 2, 'acquire': 1, 'adopt': 1, 'take_on': 2, 'read': 2, 'bring': 1, 'convey': 1, 'choose': 1, 'select': 1, 'pick_out': 1, 'accept': 4, 'have': 3, 'fill': 1, 'consider': 1, 'deal': 1, 'look_at': 1, 'necessitate': 1, 'ask': 1, 'postulate': 1, 'need': 1, 'require': 1, 'involve': 1, 'call_for': 1, 'demand': 1, 'film': 1, 'shoot': 1, 'remove': 1, 'take_away': 1, 'withdraw': 1, 'consume': 1, 'ingest': 1, 'take_in': 1, 'submit': 1, 'strike': 1, 'take_up': 1, 'admit': 1, 'learn': 1, 'study': 1, 'claim': 2, 'exact': 1, 'make': 1, 'aim': 1, 'train': 1, 'take_aim': 1, 'carry': 1, 'pack': 1, 'lease': 1, 'rent': 1, 'hire': 1, 'charter': 1, 'engage': 1, 'subscribe': 1, 'subscribe_to': 1, 'contain': 1, 'hold': 1, 'drive': 1, 'contract': 1, 'get': 1}
+take :::: v ::::: 29 :::::: get
+<Context_30/take.v 40 Day-to-day financial and operational management is the responsibility of the Chief Officer , who *took* up her post in June 2001 .>
+{'take': 42, 'occupy': 2, 'use_up': 1, 'lead': 1, 'direct': 2, 'conduct': 1, 'guide': 1, 'get_hold_of': 1, 'assume': 2, 'acquire': 1, 'adopt': 1, 'take_on': 2, 'read': 2, 'bring': 1, 'convey': 1, 'choose': 1, 'select': 1, 'pick_out': 1, 'accept': 4, 'have': 3, 'fill': 1, 'consider': 1, 'deal': 1, 'look_at': 1, 'necessitate': 1, 'ask': 1, 'postulate': 1, 'need': 1, 'require': 1, 'involve': 1, 'call_for': 1, 'demand': 1, 'film': 1, 'shoot': 1, 'remove': 1, 'take_away': 1, 'withdraw': 1, 'consume': 1, 'ingest': 1, 'take_in': 1, 'submit': 1, 'strike': 1, 'take_up': 1, 'admit': 1, 'learn': 1, 'study': 1, 'claim': 2, 'exact': 1, 'make': 1, 'aim': 1, 'train': 1, 'take_aim': 1, 'carry': 1, 'pack': 1, 'lease': 1, 'rent': 1, 'hire': 1, 'charter': 1, 'engage': 1, 'subscribe': 1, 'subscribe_to': 1, 'contain': 1, 'hold': 1, 'drive': 1, 'contract': 1, 'get': 1}
+take :::: v ::::: 30 :::::: get
+<Context_31/tight.r Anyway , my pants are getting *tight* .>
+{'fast': 1, 'tight': 2, 'close': 1, 'closely': 1}
+tight :::: r ::::: 31 :::::: closely
+<Context_32/tight.r With the physical market has *tight* as it has been in memory , silver could fly at any time .>
+{'fast': 1, 'tight': 2, 'close': 1, 'closely': 1}
+tight :::: r ::::: 32 :::::: closely
+<Context_33/tight.r More ... Specialty coffee market quiet , supplies *tight* Posted at 2:57 PM by Robert Badgett By Bruce Kamich NEW YORK , June 6 ( Reuters ) - Specialty coffee dealers said on Friday that business was unusually quiet with most retailers ' sales numbers down from a year ago , but prices for choice beans remained firm with supplies short until the next crops become available .>
+{'fast': 1, 'tight': 2, 'close': 1, 'closely': 1}
+tight :::: r ::::: 33 :::::: closely
+<Context_34/tight.r If your money is *tight* do n't cut corners .>
+{'fast': 1, 'tight': 2, 'close': 1, 'closely': 1}
+tight :::: r ::::: 34 :::::: closely
+<Context_35/tight.r Each child lies inside an Isolette incubator , a clear acrylic rectangle with ample room for a half-sized premature baby , though the quarters become *tight* for the full-term eight-pounders .>
+{'fast': 1, 'tight': 2, 'close': 1, 'closely': 1}
+tight :::: r ::::: 35 :::::: closely
+<Context_36/tight.r " It can be intimidating at first , because they wrap their arms pretty *tight* around you , and everything they latch onto is pretty much headed straight to their mouth , " Schmitz said .>
+{'fast': 1, 'tight': 2, 'close': 1, 'closely': 1}
+tight :::: r ::::: 36 :::::: closely
+<Context_37/tight.r The incisions will feel *tight* for the first 24-48 hours .>
+{'fast': 1, 'tight': 2, 'close': 1, 'closely': 1}
+tight :::: r ::::: 37 :::::: closely
+<Context_38/tight.r Except for the soldiers , Goth was locked up *tight* .>
+{'fast': 1, 'tight': 2, 'close': 1, 'closely': 1}
+tight :::: r ::::: 38 :::::: closely
+<Context_39/tight.r Nathan Robins : Did well to keep *tight* on the Left winger and was harshly judged by the referee on several occasions to have fouled the opposing player when I felt he just out muscled him .>
+{'fast': 1, 'tight': 2, 'close': 1, 'closely': 1}
+tight :::: r ::::: 39 :::::: closely
+<Context_40/tight.r I know that the market is *tight* right now .>
+{'fast': 1, 'tight': 2, 'close': 1, 'closely': 1}
+tight :::: r ::::: 40 :::::: closely
+<Context_41/bar.n That 's not a very high *bar* .>
+{'barroom': 1, 'bar': 14, 'saloon': 1, 'ginmill': 1, 'taproom': 1, 'measure': 1, 'prevention': 1, 'legal_profession': 1, 'legal_community': 1, 'stripe': 1, 'streak': 1, 'cake': 1, 'Browning_automatic_rifle': 1, 'BAR': 1}
+bar :::: n ::::: 41 :::::: BAR
+<Context_42/bar.n This more upright position is most easily and affordably achieved through slapping a riser bar on your setup , and only requires you to buy a bar instead of a *bar* and stem .>
+{'barroom': 1, 'bar': 14, 'saloon': 1, 'ginmill': 1, 'taproom': 1, 'measure': 1, 'prevention': 1, 'legal_profession': 1, 'legal_community': 1, 'stripe': 1, 'streak': 1, 'cake': 1, 'Browning_automatic_rifle': 1, 'BAR': 1}
+bar :::: n ::::: 42 :::::: BAR
+<Context_43/bar.n For twelve hours Livewire will be broadcasting live from the blue *bar* of Union House at UEA in an attempt to raise as much money as possible for a very worthy cause .>
+{'barroom': 1, 'bar': 14, 'saloon': 1, 'ginmill': 1, 'taproom': 1, 'measure': 1, 'prevention': 1, 'legal_profession': 1, 'legal_community': 1, 'stripe': 1, 'streak': 1, 'cake': 1, 'Browning_automatic_rifle': 1, 'BAR': 1}
+bar :::: n ::::: 43 :::::: BAR
+<Context_44/bar.n The British government imposed a colour *bar* in its colonies , so young blacks went in only for law or medicine where they could make a living without government support .>
+{'barroom': 1, 'bar': 14, 'saloon': 1, 'ginmill': 1, 'taproom': 1, 'measure': 1, 'prevention': 1, 'legal_profession': 1, 'legal_community': 1, 'stripe': 1, 'streak': 1, 'cake': 1, 'Browning_automatic_rifle': 1, 'BAR': 1}
+bar :::: n ::::: 44 :::::: BAR
+<Context_45/bar.n Put granola *bars* in bowl .>
+{'barroom': 1, 'bar': 14, 'saloon': 1, 'ginmill': 1, 'taproom': 1, 'measure': 1, 'prevention': 1, 'legal_profession': 1, 'legal_community': 1, 'stripe': 1, 'streak': 1, 'cake': 1, 'Browning_automatic_rifle': 1, 'BAR': 1}
+bar :::: n ::::: 45 :::::: BAR
+<Context_46/bar.n It 's been a criticism of IE 's scrollbar CSS and also stands for the status *bar* .>
+{'barroom': 1, 'bar': 14, 'saloon': 1, 'ginmill': 1, 'taproom': 1, 'measure': 1, 'prevention': 1, 'legal_profession': 1, 'legal_community': 1, 'stripe': 1, 'streak': 1, 'cake': 1, 'Browning_automatic_rifle': 1, 'BAR': 1}
+bar :::: n ::::: 46 :::::: BAR
+<Context_47/bar.n 2 ) Straddling the center bar , your child should be able to keep both feet flat on the ground with about a 1-inch clearance between the crotch and the *bar* .>
+{'barroom': 1, 'bar': 14, 'saloon': 1, 'ginmill': 1, 'taproom': 1, 'measure': 1, 'prevention': 1, 'legal_profession': 1, 'legal_community': 1, 'stripe': 1, 'streak': 1, 'cake': 1, 'Browning_automatic_rifle': 1, 'BAR': 1}
+bar :::: n ::::: 47 :::::: BAR
+<Context_48/bar.n Seventy-five percent of my clientele that comes in there , they are just like a person on a Friday afternoon going into a *bar* , and he sits at the counter , and the bartender knows what he wants to drink .>
+{'barroom': 1, 'bar': 14, 'saloon': 1, 'ginmill': 1, 'taproom': 1, 'measure': 1, 'prevention': 1, 'legal_profession': 1, 'legal_community': 1, 'stripe': 1, 'streak': 1, 'cake': 1, 'Browning_automatic_rifle': 1, 'BAR': 1}
+bar :::: n ::::: 48 :::::: BAR
+<Context_49/bar.n The night is long at the numerous other discos and clubs , but for those seeking something more sedate there are quieter , sophisticated *bars* in the hotels .>
+{'barroom': 1, 'bar': 14, 'saloon': 1, 'ginmill': 1, 'taproom': 1, 'measure': 1, 'prevention': 1, 'legal_profession': 1, 'legal_community': 1, 'stripe': 1, 'streak': 1, 'cake': 1, 'Browning_automatic_rifle': 1, 'BAR': 1}
+bar :::: n ::::: 49 :::::: BAR
+<Context_50/bar.v Abstract : Analysis of contact between two chromosomal races of house mice in northern Italy show that natural selection will produce alleles that *bar* interracial matings if the resulting offspring are unfit hybrids .>
+{'bar': 4, 'debar': 1, 'exclude': 1, 'barricade': 1, 'block': 1, 'blockade': 1, 'stop': 1, 'block_off': 1, 'block_up': 1, 'banish': 1, 'relegate': 1}
+bar :::: v ::::: 50 :::::: relegate
+<Context_51/cross.n When Time magazine 's cover portrays millennium nuts as deranged , crazy Christians holding a *cross* as it did last month , boycott their magazine and the products it advertises .>
+{'cross': 5, 'crisscross': 1, 'mark': 1, 'Cross': 1, 'crown_of_thorns': 1, 'hybrid': 1, 'crossbreed': 1, 'hybridization': 1, 'hybridisation': 1, 'crossbreeding': 1, 'crossing': 1, 'interbreeding': 1, 'hybridizing': 1}
+cross :::: n ::::: 51 :::::: hybridizing
+<Context_52/cross.n Four-Set in a *cross* , the points meeting in water surrounded by luminous crescents .>
+{'cross': 5, 'crisscross': 1, 'mark': 1, 'Cross': 1, 'crown_of_thorns': 1, 'hybrid': 1, 'crossbreed': 1, 'hybridization': 1, 'hybridisation': 1, 'crossbreeding': 1, 'crossing': 1, 'interbreeding': 1, 'hybridizing': 1}
+cross :::: n ::::: 52 :::::: hybridizing
+<Context_53/cross.n It was designed in the form of a *cross* with a cast iron sword placed where the cross members join .>
+{'cross': 5, 'crisscross': 1, 'mark': 1, 'Cross': 1, 'crown_of_thorns': 1, 'hybrid': 1, 'crossbreed': 1, 'hybridization': 1, 'hybridisation': 1, 'crossbreeding': 1, 'crossing': 1, 'interbreeding': 1, 'hybridizing': 1}
+cross :::: n ::::: 53 :::::: hybridizing
+<Context_54/cross.n Triticale , a *cross* between wheat and rye , matures later than rye but earlier than wheat .>
+{'cross': 5, 'crisscross': 1, 'mark': 1, 'Cross': 1, 'crown_of_thorns': 1, 'hybrid': 1, 'crossbreed': 1, 'hybridization': 1, 'hybridisation': 1, 'crossbreeding': 1, 'crossing': 1, 'interbreeding': 1, 'hybridizing': 1}
+cross :::: n ::::: 54 :::::: hybridizing
+<Context_55/cross.n Old Nick got tired of cussing , was humiliated at being sat on , and hurting like the torments of Hell for being so close to the *cross* .>
+{'cross': 5, 'crisscross': 1, 'mark': 1, 'Cross': 1, 'crown_of_thorns': 1, 'hybrid': 1, 'crossbreed': 1, 'hybridization': 1, 'hybridisation': 1, 'crossbreeding': 1, 'crossing': 1, 'interbreeding': 1, 'hybridizing': 1}
+cross :::: n ::::: 55 :::::: hybridizing
+<Context_56/cross.n By 1924 he managed to transmit across a few feet the flickering image of a Maltese *cross* and on 26th January 1926 he gave the world 's first demonstration of true television in his attic workshop before some fifty scientists .>
+{'cross': 5, 'crisscross': 1, 'mark': 1, 'Cross': 1, 'crown_of_thorns': 1, 'hybrid': 1, 'crossbreed': 1, 'hybridization': 1, 'hybridisation': 1, 'crossbreeding': 1, 'crossing': 1, 'interbreeding': 1, 'hybridizing': 1}
+cross :::: n ::::: 56 :::::: hybridizing
+<Context_57/cross.n He appeared to his apostles and spoke to them about God 's kingdom. ' Acts 1:3 Jesus took the consequences of our self-centredness by giving up his life on the *cross* .>
+{'cross': 5, 'crisscross': 1, 'mark': 1, 'Cross': 1, 'crown_of_thorns': 1, 'hybrid': 1, 'crossbreed': 1, 'hybridization': 1, 'hybridisation': 1, 'crossbreeding': 1, 'crossing': 1, 'interbreeding': 1, 'hybridizing': 1}
+cross :::: n ::::: 57 :::::: hybridizing
+<Context_58/cross.n If power cycling occurs , care must be taken to account for the " dead time " between shutdown and power up when the latchup *cross* section is evaluated .>
+{'cross': 5, 'crisscross': 1, 'mark': 1, 'Cross': 1, 'crown_of_thorns': 1, 'hybrid': 1, 'crossbreed': 1, 'hybridization': 1, 'hybridisation': 1, 'crossbreeding': 1, 'crossing': 1, 'interbreeding': 1, 'hybridizing': 1}
+cross :::: n ::::: 58 :::::: hybridizing
+<Context_59/cross.n " Mixed race people represent a diverse *cross* section of racial , ethnic , and cultural heritages , with many multiracial individuals identifying with multiple communities , " the organizations stated .>
+{'cross': 5, 'crisscross': 1, 'mark': 1, 'Cross': 1, 'crown_of_thorns': 1, 'hybrid': 1, 'crossbreed': 1, 'hybridization': 1, 'hybridisation': 1, 'crossbreeding': 1, 'crossing': 1, 'interbreeding': 1, 'hybridizing': 1}
+cross :::: n ::::: 59 :::::: hybridizing
+<Context_60/cross.a I can only judge keyboards by going into somewhere like PC World and physically trying them , and I do not want to go into somewhere like PC World , as I do not want to get *cross* .>
+{'cross': 2, 'transverse': 1, 'transversal': 1, 'thwartwise': 1, 'crabbed': 1, 'crabby': 1, 'fussy': 1, 'grouchy': 1, 'grumpy': 1, 'bad-tempered': 1, 'ill-tempered': 1}
+cross :::: a ::::: 60 :::::: ill-tempered
+<Context_61/finally.r Mr. Hall 's old factory is still on Oklahoma Avenue , but the metal fabrication plant where Mr. Larson worked *finally* closed last year after withering for decades .>
+{'finally': 3, 'eventually': 1, 'ultimately': 1, 'in_the_end': 1, 'at_last': 1, 'at_long_last': 1, 'last': 1, 'lastly': 1, 'in_conclusion': 1}
+finally :::: r ::::: 61 :::::: in_conclusion
+<Context_62/finally.r None *Finally* , this new rule will also have the effect of encouraging existing corporations to produce safer products , in keeping with the public policy goals that underlie product liability law generally. [ Fn .>
+{'finally': 3, 'eventually': 1, 'ultimately': 1, 'in_the_end': 1, 'at_last': 1, 'at_long_last': 1, 'last': 1, 'lastly': 1, 'in_conclusion': 1}
+finally :::: r ::::: 62 :::::: in_conclusion
+<Context_63/finally.r However , this easy clearing method has muddled the issue quite a bit , since now Explorer is not actually being cleared at all , while Gecko browsers have *finally* been corrected so they do clear all previous floats .>
+{'finally': 3, 'eventually': 1, 'ultimately': 1, 'in_the_end': 1, 'at_last': 1, 'at_long_last': 1, 'last': 1, 'lastly': 1, 'in_conclusion': 1}
+finally :::: r ::::: 63 :::::: in_conclusion
+<Context_64/finally.r None *Finally* , Adam sees the ID card being used as an authenticator because it might be declared &#8220;trustworthy&#8221; .>
+{'finally': 3, 'eventually': 1, 'ultimately': 1, 'in_the_end': 1, 'at_last': 1, 'at_long_last': 1, 'last': 1, 'lastly': 1, 'in_conclusion': 1}
+finally :::: r ::::: 64 :::::: in_conclusion
+<Context_65/finally.r He said , " OK , first , I 'd like to have a face like Clark Gable , then , I 'd like a build like Arnold Schwarzenegger , and *finally* , I 'd like sexual equipment like this here horse I 'm riding .>
+{'finally': 3, 'eventually': 1, 'ultimately': 1, 'in_the_end': 1, 'at_last': 1, 'at_long_last': 1, 'last': 1, 'lastly': 1, 'in_conclusion': 1}
+finally :::: r ::::: 65 :::::: in_conclusion
+<Context_66/finally.r None *Finally* , I interviewed Eric Howes , a noted spyware researcher at the University of Illinois , who has found that today 's most popular anti-spyware software packages are far less effective than many believe ( see sidebar , below ) .>
+{'finally': 3, 'eventually': 1, 'ultimately': 1, 'in_the_end': 1, 'at_last': 1, 'at_long_last': 1, 'last': 1, 'lastly': 1, 'in_conclusion': 1}
+finally :::: r ::::: 66 :::::: in_conclusion
+<Context_67/finally.r However , you will get those NSF fees reimbursed by the bank as well - it will just come when they *finally* process everything together .>
+{'finally': 3, 'eventually': 1, 'ultimately': 1, 'in_the_end': 1, 'at_last': 1, 'at_long_last': 1, 'last': 1, 'lastly': 1, 'in_conclusion': 1}
+finally :::: r ::::: 67 :::::: in_conclusion
+<Context_68/finally.r None *Finally* , the Army has conducted range characterization activities regarding the potential for contamination from munitions residues at 17 ranges throughout the United States , assessing the different types of ranges used by the Army .>
+{'finally': 3, 'eventually': 1, 'ultimately': 1, 'in_the_end': 1, 'at_last': 1, 'at_long_last': 1, 'last': 1, 'lastly': 1, 'in_conclusion': 1}
+finally :::: r ::::: 68 :::::: in_conclusion
+<Context_69/finally.r None *Finally* , it is outlined how a mesoscopic theory should be constructed for a particular scanning tunneling microscopy experiment in order to overcome the failure of a corresponding reaction&#150;diffusion model to quantitatively reproduce the experiments .>
+{'finally': 3, 'eventually': 1, 'ultimately': 1, 'in_the_end': 1, 'at_last': 1, 'at_long_last': 1, 'last': 1, 'lastly': 1, 'in_conclusion': 1}
+finally :::: r ::::: 69 :::::: in_conclusion
+<Context_70/finally.r None *Finally* , the proposed disposal rule would apply to transfer agents registered with the Commission .>
+{'finally': 3, 'eventually': 1, 'ultimately': 1, 'in_the_end': 1, 'at_last': 1, 'at_long_last': 1, 'last': 1, 'lastly': 1, 'in_conclusion': 1}
+finally :::: r ::::: 70 :::::: in_conclusion
+<Context_71/find.v Up to sixty percent of the fatty acid content in the grasses on the plains contain omega-3 and are *found* in abundance in buffalo allowed to graze on the natural grasses .>
+{'find': 16, 'happen': 1, 'chance': 1, 'bump': 1, 'encounter': 1, 'detect': 1, 'observe': 1, 'discover': 3, 'notice': 1, 'regain': 2, 'determine': 1, 'find_out': 1, 'ascertain': 1, 'feel': 1, 'witness': 1, 'see': 1, 'line_up': 1, 'get_hold': 1, 'come_up': 1, 'rule': 1, 'receive': 1, 'get': 1, 'obtain': 1, 'incur': 1, 'recover': 1, 'retrieve': 1, 'find_oneself': 1}
+find :::: v ::::: 71 :::::: find_oneself
+<Context_72/find.v If you find yourself caught up in negative thoughts and *find* that you suddenly expect the worst it will be impossible to perform at your peak .>
+{'find': 16, 'happen': 1, 'chance': 1, 'bump': 1, 'encounter': 1, 'detect': 1, 'observe': 1, 'discover': 3, 'notice': 1, 'regain': 2, 'determine': 1, 'find_out': 1, 'ascertain': 1, 'feel': 1, 'witness': 1, 'see': 1, 'line_up': 1, 'get_hold': 1, 'come_up': 1, 'rule': 1, 'receive': 1, 'get': 1, 'obtain': 1, 'incur': 1, 'recover': 1, 'retrieve': 1, 'find_oneself': 1}
+find :::: v ::::: 72 :::::: find_oneself
+<Context_73/find.v Search Customer Reviews 9 of 10 people *found* the following review helpful : Early feminist literature - memorable , November 21 , 2000 Reviewer : M. J. Smith ( Seattle , WA USA ) - See all my reviews This book consists of a gem of a story and a mediocre afterward .>
+{'find': 16, 'happen': 1, 'chance': 1, 'bump': 1, 'encounter': 1, 'detect': 1, 'observe': 1, 'discover': 3, 'notice': 1, 'regain': 2, 'determine': 1, 'find_out': 1, 'ascertain': 1, 'feel': 1, 'witness': 1, 'see': 1, 'line_up': 1, 'get_hold': 1, 'come_up': 1, 'rule': 1, 'receive': 1, 'get': 1, 'obtain': 1, 'incur': 1, 'recover': 1, 'retrieve': 1, 'find_oneself': 1}
+find :::: v ::::: 73 :::::: find_oneself
+<Context_74/find.v Well they have a friend named Morgan and Morgan told them to *find* an object that he wants .>
+{'find': 16, 'happen': 1, 'chance': 1, 'bump': 1, 'encounter': 1, 'detect': 1, 'observe': 1, 'discover': 3, 'notice': 1, 'regain': 2, 'determine': 1, 'find_out': 1, 'ascertain': 1, 'feel': 1, 'witness': 1, 'see': 1, 'line_up': 1, 'get_hold': 1, 'come_up': 1, 'rule': 1, 'receive': 1, 'get': 1, 'obtain': 1, 'incur': 1, 'recover': 1, 'retrieve': 1, 'find_oneself': 1}
+find :::: v ::::: 74 :::::: find_oneself
+<Context_75/find.v Consistent with previous findings , lack of congruence was *found* to be a precursor of intrusiveness .>
+{'find': 16, 'happen': 1, 'chance': 1, 'bump': 1, 'encounter': 1, 'detect': 1, 'observe': 1, 'discover': 3, 'notice': 1, 'regain': 2, 'determine': 1, 'find_out': 1, 'ascertain': 1, 'feel': 1, 'witness': 1, 'see': 1, 'line_up': 1, 'get_hold': 1, 'come_up': 1, 'rule': 1, 'receive': 1, 'get': 1, 'obtain': 1, 'incur': 1, 'recover': 1, 'retrieve': 1, 'find_oneself': 1}
+find :::: v ::::: 75 :::::: find_oneself
+<Context_76/find.v nokia mobile phone cases , motorola cell phone cases , motorola cell phone case , body glove cell phone case I think the best place where you can *find* CELL PHONE CARRYING CASE is eBay .>
+{'find': 16, 'happen': 1, 'chance': 1, 'bump': 1, 'encounter': 1, 'detect': 1, 'observe': 1, 'discover': 3, 'notice': 1, 'regain': 2, 'determine': 1, 'find_out': 1, 'ascertain': 1, 'feel': 1, 'witness': 1, 'see': 1, 'line_up': 1, 'get_hold': 1, 'come_up': 1, 'rule': 1, 'receive': 1, 'get': 1, 'obtain': 1, 'incur': 1, 'recover': 1, 'retrieve': 1, 'find_oneself': 1}
+find :::: v ::::: 76 :::::: find_oneself
+<Context_77/find.v Oh , and as far as the Kool-Aid jokes , *find* your own material .>
+{'find': 16, 'happen': 1, 'chance': 1, 'bump': 1, 'encounter': 1, 'detect': 1, 'observe': 1, 'discover': 3, 'notice': 1, 'regain': 2, 'determine': 1, 'find_out': 1, 'ascertain': 1, 'feel': 1, 'witness': 1, 'see': 1, 'line_up': 1, 'get_hold': 1, 'come_up': 1, 'rule': 1, 'receive': 1, 'get': 1, 'obtain': 1, 'incur': 1, 'recover': 1, 'retrieve': 1, 'find_oneself': 1}
+find :::: v ::::: 77 :::::: find_oneself
+<Context_78/find.v But much that we once accepted as inevitable , we now *find* absolutely intolerable .>
+{'find': 16, 'happen': 1, 'chance': 1, 'bump': 1, 'encounter': 1, 'detect': 1, 'observe': 1, 'discover': 3, 'notice': 1, 'regain': 2, 'determine': 1, 'find_out': 1, 'ascertain': 1, 'feel': 1, 'witness': 1, 'see': 1, 'line_up': 1, 'get_hold': 1, 'come_up': 1, 'rule': 1, 'receive': 1, 'get': 1, 'obtain': 1, 'incur': 1, 'recover': 1, 'retrieve': 1, 'find_oneself': 1}
+find :::: v ::::: 78 :::::: find_oneself
+<Context_79/find.v SpeedUpMyPC automatically *finds* the best settings for your PC and carefully controls your system resources to give you the best performance .>
+{'find': 16, 'happen': 1, 'chance': 1, 'bump': 1, 'encounter': 1, 'detect': 1, 'observe': 1, 'discover': 3, 'notice': 1, 'regain': 2, 'determine': 1, 'find_out': 1, 'ascertain': 1, 'feel': 1, 'witness': 1, 'see': 1, 'line_up': 1, 'get_hold': 1, 'come_up': 1, 'rule': 1, 'receive': 1, 'get': 1, 'obtain': 1, 'incur': 1, 'recover': 1, 'retrieve': 1, 'find_oneself': 1}
+find :::: v ::::: 79 :::::: find_oneself
+<Context_80/find.v If Bessler had indeed discovered some mechanical way of creating perpetual motion , perhaps the only way it is explainable is if he had *found* a way of extracting the energy from this Aether .>
+{'find': 16, 'happen': 1, 'chance': 1, 'bump': 1, 'encounter': 1, 'detect': 1, 'observe': 1, 'discover': 3, 'notice': 1, 'regain': 2, 'determine': 1, 'find_out': 1, 'ascertain': 1, 'feel': 1, 'witness': 1, 'see': 1, 'line_up': 1, 'get_hold': 1, 'come_up': 1, 'rule': 1, 'receive': 1, 'get': 1, 'obtain': 1, 'incur': 1, 'recover': 1, 'retrieve': 1, 'find_oneself': 1}
+find :::: v ::::: 80 :::::: find_oneself
+<Context_81/fix.v The Transcendental Meditation people advertised this : " Meditation can *fix* many sicknesses .>
+{'repair': 1, 'mend': 1, 'fix': 12, 'bushel': 1, 'doctor': 1, 'furbish_up': 1, 'restore': 1, 'touch_on': 1, 'fasten': 1, 'secure': 1, 'specify': 1, 'set': 2, 'determine': 1, 'define': 1, 'limit': 1, 'cook': 1, 'ready': 2, 'make': 1, 'prepare': 2, 'pay_back': 1, 'pay_off': 1, 'get': 1, 'fixate': 1, 'sterilize': 1, 'sterilise': 1, 'desex': 1, 'unsex': 1, 'desexualize': 1, 'desexualise': 1, 'situate': 1, 'posit': 1, 'deposit': 1, 'set_up': 1, 'gear_up': 1}
+fix :::: v ::::: 81 :::::: gear_up
+<Context_82/fix.v Now , I 'm not sure how I went from missing two weeks to six , but intend to *fix* that as I go .>
+{'repair': 1, 'mend': 1, 'fix': 12, 'bushel': 1, 'doctor': 1, 'furbish_up': 1, 'restore': 1, 'touch_on': 1, 'fasten': 1, 'secure': 1, 'specify': 1, 'set': 2, 'determine': 1, 'define': 1, 'limit': 1, 'cook': 1, 'ready': 2, 'make': 1, 'prepare': 2, 'pay_back': 1, 'pay_off': 1, 'get': 1, 'fixate': 1, 'sterilize': 1, 'sterilise': 1, 'desex': 1, 'unsex': 1, 'desexualize': 1, 'desexualise': 1, 'situate': 1, 'posit': 1, 'deposit': 1, 'set_up': 1, 'gear_up': 1}
+fix :::: v ::::: 82 :::::: gear_up
+<Context_83/fix.v ' ' I feel I can get a lot more done as a selectman by being innovative and *fixing* the problems we have with cash flows , because they occur every year .>
+{'repair': 1, 'mend': 1, 'fix': 12, 'bushel': 1, 'doctor': 1, 'furbish_up': 1, 'restore': 1, 'touch_on': 1, 'fasten': 1, 'secure': 1, 'specify': 1, 'set': 2, 'determine': 1, 'define': 1, 'limit': 1, 'cook': 1, 'ready': 2, 'make': 1, 'prepare': 2, 'pay_back': 1, 'pay_off': 1, 'get': 1, 'fixate': 1, 'sterilize': 1, 'sterilise': 1, 'desex': 1, 'unsex': 1, 'desexualize': 1, 'desexualise': 1, 'situate': 1, 'posit': 1, 'deposit': 1, 'set_up': 1, 'gear_up': 1}
+fix :::: v ::::: 83 :::::: gear_up
+<Context_84/fix.v Getting back to the day when doctors looked at the whole person .and did not expect a pill to *fix* the mind .>
+{'repair': 1, 'mend': 1, 'fix': 12, 'bushel': 1, 'doctor': 1, 'furbish_up': 1, 'restore': 1, 'touch_on': 1, 'fasten': 1, 'secure': 1, 'specify': 1, 'set': 2, 'determine': 1, 'define': 1, 'limit': 1, 'cook': 1, 'ready': 2, 'make': 1, 'prepare': 2, 'pay_back': 1, 'pay_off': 1, 'get': 1, 'fixate': 1, 'sterilize': 1, 'sterilise': 1, 'desex': 1, 'unsex': 1, 'desexualize': 1, 'desexualise': 1, 'situate': 1, 'posit': 1, 'deposit': 1, 'set_up': 1, 'gear_up': 1}
+fix :::: v ::::: 84 :::::: gear_up
+<Context_85/fix.v And thanks to our users , we now have around 30 engines in the database ... New features : - Better layout - Better copy - Small bugs *fixed* Bugs : - ie hell + much more Posted by eric at 05:24 PM | Comments ( 3 ) Investment News As part of the new international expansion strategy 24hdc.com now accepts USD for investments .>
+{'repair': 1, 'mend': 1, 'fix': 12, 'bushel': 1, 'doctor': 1, 'furbish_up': 1, 'restore': 1, 'touch_on': 1, 'fasten': 1, 'secure': 1, 'specify': 1, 'set': 2, 'determine': 1, 'define': 1, 'limit': 1, 'cook': 1, 'ready': 2, 'make': 1, 'prepare': 2, 'pay_back': 1, 'pay_off': 1, 'get': 1, 'fixate': 1, 'sterilize': 1, 'sterilise': 1, 'desex': 1, 'unsex': 1, 'desexualize': 1, 'desexualise': 1, 'situate': 1, 'posit': 1, 'deposit': 1, 'set_up': 1, 'gear_up': 1}
+fix :::: v ::::: 85 :::::: gear_up
+<Context_86/fix.v Er , tilty. by anna at July 17 , 2003 03:37 PM yeah , in our case , whoever did the foundation fucked up royally. when the house settled , it was fubar. should be pretty easy to *fix* though...just a matter of getting the pilings set to the right heights. by JC at July 17 , 2003 06:32 PM add a comment Name : Email Address : URL : Remember personal info ?>
+{'repair': 1, 'mend': 1, 'fix': 12, 'bushel': 1, 'doctor': 1, 'furbish_up': 1, 'restore': 1, 'touch_on': 1, 'fasten': 1, 'secure': 1, 'specify': 1, 'set': 2, 'determine': 1, 'define': 1, 'limit': 1, 'cook': 1, 'ready': 2, 'make': 1, 'prepare': 2, 'pay_back': 1, 'pay_off': 1, 'get': 1, 'fixate': 1, 'sterilize': 1, 'sterilise': 1, 'desex': 1, 'unsex': 1, 'desexualize': 1, 'desexualise': 1, 'situate': 1, 'posit': 1, 'deposit': 1, 'set_up': 1, 'gear_up': 1}
+fix :::: v ::::: 86 :::::: gear_up
+<Context_87/fix.v I guess I 'll be able to hit the hot button many times as I 'm always at the dealer getting my car *fixed* .>
+{'repair': 1, 'mend': 1, 'fix': 12, 'bushel': 1, 'doctor': 1, 'furbish_up': 1, 'restore': 1, 'touch_on': 1, 'fasten': 1, 'secure': 1, 'specify': 1, 'set': 2, 'determine': 1, 'define': 1, 'limit': 1, 'cook': 1, 'ready': 2, 'make': 1, 'prepare': 2, 'pay_back': 1, 'pay_off': 1, 'get': 1, 'fixate': 1, 'sterilize': 1, 'sterilise': 1, 'desex': 1, 'unsex': 1, 'desexualize': 1, 'desexualise': 1, 'situate': 1, 'posit': 1, 'deposit': 1, 'set_up': 1, 'gear_up': 1}
+fix :::: v ::::: 87 :::::: gear_up
+<Context_88/fix.v The long-term problem with Social Security after 2042 could be totally *fixed* by raising the cap on income to a level needed to generate sufficient income to enable the system to continue to pay 100 percent indefinitely .>
+{'repair': 1, 'mend': 1, 'fix': 12, 'bushel': 1, 'doctor': 1, 'furbish_up': 1, 'restore': 1, 'touch_on': 1, 'fasten': 1, 'secure': 1, 'specify': 1, 'set': 2, 'determine': 1, 'define': 1, 'limit': 1, 'cook': 1, 'ready': 2, 'make': 1, 'prepare': 2, 'pay_back': 1, 'pay_off': 1, 'get': 1, 'fixate': 1, 'sterilize': 1, 'sterilise': 1, 'desex': 1, 'unsex': 1, 'desexualize': 1, 'desexualise': 1, 'situate': 1, 'posit': 1, 'deposit': 1, 'set_up': 1, 'gear_up': 1}
+fix :::: v ::::: 88 :::::: gear_up
+<Context_89/fix.v The only way to *fix* this is for linux to get enough market share to be able to make demands for hardware support. [ reply ] [ top ] [ &#194; &#187; ] Releasing specs is the only answer. by The Nose Who Knows - Feb 26th 2001 04:29:40 &amp;gt; The other reason why vendors do n't support linux &amp;gt; most of the time for commidity hardware such as &amp;gt; webcam is low returns on investments .>
+{'repair': 1, 'mend': 1, 'fix': 12, 'bushel': 1, 'doctor': 1, 'furbish_up': 1, 'restore': 1, 'touch_on': 1, 'fasten': 1, 'secure': 1, 'specify': 1, 'set': 2, 'determine': 1, 'define': 1, 'limit': 1, 'cook': 1, 'ready': 2, 'make': 1, 'prepare': 2, 'pay_back': 1, 'pay_off': 1, 'get': 1, 'fixate': 1, 'sterilize': 1, 'sterilise': 1, 'desex': 1, 'unsex': 1, 'desexualize': 1, 'desexualise': 1, 'situate': 1, 'posit': 1, 'deposit': 1, 'set_up': 1, 'gear_up': 1}
+fix :::: v ::::: 89 :::::: gear_up
+<Context_90/fix.v But if no prayers can alter your purpose , dear one , husband , if you are so *fixed* on going , take me with you , also !>
+{'repair': 1, 'mend': 1, 'fix': 12, 'bushel': 1, 'doctor': 1, 'furbish_up': 1, 'restore': 1, 'touch_on': 1, 'fasten': 1, 'secure': 1, 'specify': 1, 'set': 2, 'determine': 1, 'define': 1, 'limit': 1, 'cook': 1, 'ready': 2, 'make': 1, 'prepare': 2, 'pay_back': 1, 'pay_off': 1, 'get': 1, 'fixate': 1, 'sterilize': 1, 'sterilise': 1, 'desex': 1, 'unsex': 1, 'desexualize': 1, 'desexualise': 1, 'situate': 1, 'posit': 1, 'deposit': 1, 'set_up': 1, 'gear_up': 1}
+fix :::: v ::::: 90 :::::: gear_up
+<Context_91/manage.v Suddenly there was a scattering of fire , which three outfielders caught the brunt ; the centerfield was hit and was captured , left and right field *managed* to get back to our lines .>
+{'pull_off': 1, 'negociate': 1, 'bring_off': 1, 'carry_off': 1, 'manage': 7, 'deal': 2, 'care': 1, 'handle': 2, 'cope': 1, 'get_by': 1, 'make_out': 1, 'make_do': 1, 'contend': 1, 'grapple': 1, 'oversee': 1, 'supervise': 1, 'superintend': 1, 'wangle': 1, 'finagle': 1, 'do': 1, 'wield': 1}
+manage :::: v ::::: 91 :::::: wield
+<Context_92/manage.v " C158 ( cf ex R145 ) " The Provincial in Councilor the Superior ofthe Delegation in Councilsets the financial competency of local Superiorsand their Councilsand determines which assets can be *managed* by individualOblates and by local Superiors and their Councils .>
+{'pull_off': 1, 'negociate': 1, 'bring_off': 1, 'carry_off': 1, 'manage': 7, 'deal': 2, 'care': 1, 'handle': 2, 'cope': 1, 'get_by': 1, 'make_out': 1, 'make_do': 1, 'contend': 1, 'grapple': 1, 'oversee': 1, 'supervise': 1, 'superintend': 1, 'wangle': 1, 'finagle': 1, 'do': 1, 'wield': 1}
+manage :::: v ::::: 92 :::::: wield
+<Context_93/manage.v BUSINESS DEVELOPMENT MANAGER STRATEGIC ALLIANCES This individual will be responsible for coordinating , negotiating , launching , and *managing* Accuity 's partner relationships .>
+{'pull_off': 1, 'negociate': 1, 'bring_off': 1, 'carry_off': 1, 'manage': 7, 'deal': 2, 'care': 1, 'handle': 2, 'cope': 1, 'get_by': 1, 'make_out': 1, 'make_do': 1, 'contend': 1, 'grapple': 1, 'oversee': 1, 'supervise': 1, 'superintend': 1, 'wangle': 1, 'finagle': 1, 'do': 1, 'wield': 1}
+manage :::: v ::::: 93 :::::: wield
+<Context_94/manage.v A married woman retains ownership of any property she brought to the marriage , but the husband has the right to *manage* the property and to enjoy profits from the property .>
+{'pull_off': 1, 'negociate': 1, 'bring_off': 1, 'carry_off': 1, 'manage': 7, 'deal': 2, 'care': 1, 'handle': 2, 'cope': 1, 'get_by': 1, 'make_out': 1, 'make_do': 1, 'contend': 1, 'grapple': 1, 'oversee': 1, 'supervise': 1, 'superintend': 1, 'wangle': 1, 'finagle': 1, 'do': 1, 'wield': 1}
+manage :::: v ::::: 94 :::::: wield
+<Context_95/manage.v We do not need to ask for your specific permission to do these things , as explained below : Treatment Partners health care providers will use and share your health information to provide and *manage* your health care and related services .>
+{'pull_off': 1, 'negociate': 1, 'bring_off': 1, 'carry_off': 1, 'manage': 7, 'deal': 2, 'care': 1, 'handle': 2, 'cope': 1, 'get_by': 1, 'make_out': 1, 'make_do': 1, 'contend': 1, 'grapple': 1, 'oversee': 1, 'supervise': 1, 'superintend': 1, 'wangle': 1, 'finagle': 1, 'do': 1, 'wield': 1}
+manage :::: v ::::: 95 :::::: wield
+<Context_96/manage.v According to a White House press release , al-Taqwa and its affiliates " raise , *manage* , invest , and distribute funds for al-Qaeda ; provide terrorist supporters with internet service and secure telephone communications ; and arrange for the shipment of weapons .>
+{'pull_off': 1, 'negociate': 1, 'bring_off': 1, 'carry_off': 1, 'manage': 7, 'deal': 2, 'care': 1, 'handle': 2, 'cope': 1, 'get_by': 1, 'make_out': 1, 'make_do': 1, 'contend': 1, 'grapple': 1, 'oversee': 1, 'supervise': 1, 'superintend': 1, 'wangle': 1, 'finagle': 1, 'do': 1, 'wield': 1}
+manage :::: v ::::: 96 :::::: wield
+<Context_97/manage.v That is , if the average person ( say this is 98 % of people ) amasses 10 things , if I *manage* to acquire 20 things then perhaps my account is not worth twice as much but maybe 10x or 100x as much as average .>
+{'pull_off': 1, 'negociate': 1, 'bring_off': 1, 'carry_off': 1, 'manage': 7, 'deal': 2, 'care': 1, 'handle': 2, 'cope': 1, 'get_by': 1, 'make_out': 1, 'make_do': 1, 'contend': 1, 'grapple': 1, 'oversee': 1, 'supervise': 1, 'superintend': 1, 'wangle': 1, 'finagle': 1, 'do': 1, 'wield': 1}
+manage :::: v ::::: 97 :::::: wield
+<Context_98/manage.v There are different types of *managed* care systems .>
+{'pull_off': 1, 'negociate': 1, 'bring_off': 1, 'carry_off': 1, 'manage': 7, 'deal': 2, 'care': 1, 'handle': 2, 'cope': 1, 'get_by': 1, 'make_out': 1, 'make_do': 1, 'contend': 1, 'grapple': 1, 'oversee': 1, 'supervise': 1, 'superintend': 1, 'wangle': 1, 'finagle': 1, 'do': 1, 'wield': 1}
+manage :::: v ::::: 98 :::::: wield
+<Context_99/manage.v Saddam Hussein did n't *manage* to defeat the Iranians .>
+{'pull_off': 1, 'negociate': 1, 'bring_off': 1, 'carry_off': 1, 'manage': 7, 'deal': 2, 'care': 1, 'handle': 2, 'cope': 1, 'get_by': 1, 'make_out': 1, 'make_do': 1, 'contend': 1, 'grapple': 1, 'oversee': 1, 'supervise': 1, 'superintend': 1, 'wangle': 1, 'finagle': 1, 'do': 1, 'wield': 1}
+manage :::: v ::::: 99 :::::: wield
+<Context_100/manage.v The M107 program is *managed* by the Project Manager Soldier Weapons with engineering support provided by Picatinny&#194;&#146;s Armament Research , Development and Engineering Center .>
+{'pull_off': 1, 'negociate': 1, 'bring_off': 1, 'carry_off': 1, 'manage': 7, 'deal': 2, 'care': 1, 'handle': 2, 'cope': 1, 'get_by': 1, 'make_out': 1, 'make_do': 1, 'contend': 1, 'grapple': 1, 'oversee': 1, 'supervise': 1, 'superintend': 1, 'wangle': 1, 'finagle': 1, 'do': 1, 'wield': 1}
+manage :::: v ::::: 100 :::::: wield
+<Context_101/neat.a It is really a *neat* plan , well documented and a model for libraries that are still working on their plans. ~ ~ ~ Corrections to April 2003 issue of LDD On the Road : Some things slipped by when putting together last month&#8217;s issue of LDD On the Road .>
+{'neat': 6, 'orderly': 1, 'refined': 1, 'tasteful': 1, 'clean': 1, 'bang-up': 1, 'bully': 1, 'corking': 1, 'cracking': 1, 'dandy': 1, 'great': 1, 'groovy': 1, 'keen': 1, 'nifty': 1, 'not_bad': 1, 'peachy': 1, 'slap-up': 1, 'swell': 1, 'smashing': 1, 'straight': 1, 'full-strength': 1}
+neat :::: a ::::: 101 :::::: full-strength
+<Context_102/neat.a And the prize for *neatest* , simplest idea has to go to britkid.org , a resource for opening children 's eyes to the diversity of our culture. www.skoool.com www.nrich.maths.org.uk www.stagework.org.uk www.learningcurve.gov.uk www.britkid.org Email Hotmail is the free email service everyone knows .>
+{'neat': 6, 'orderly': 1, 'refined': 1, 'tasteful': 1, 'clean': 1, 'bang-up': 1, 'bully': 1, 'corking': 1, 'cracking': 1, 'dandy': 1, 'great': 1, 'groovy': 1, 'keen': 1, 'nifty': 1, 'not_bad': 1, 'peachy': 1, 'slap-up': 1, 'swell': 1, 'smashing': 1, 'straight': 1, 'full-strength': 1}
+neat :::: a ::::: 102 :::::: full-strength
+<Context_103/neat.a Over the course of the 20th century scholars have learned that such images tried to make messy reality *neater* than it really is .>
+{'neat': 6, 'orderly': 1, 'refined': 1, 'tasteful': 1, 'clean': 1, 'bang-up': 1, 'bully': 1, 'corking': 1, 'cracking': 1, 'dandy': 1, 'great': 1, 'groovy': 1, 'keen': 1, 'nifty': 1, 'not_bad': 1, 'peachy': 1, 'slap-up': 1, 'swell': 1, 'smashing': 1, 'straight': 1, 'full-strength': 1}
+neat :::: a ::::: 103 :::::: full-strength
+<Context_104/neat.a Strong field patterns created by hedgerows give the landscape a *neat* , well structured appearance .>
+{'neat': 6, 'orderly': 1, 'refined': 1, 'tasteful': 1, 'clean': 1, 'bang-up': 1, 'bully': 1, 'corking': 1, 'cracking': 1, 'dandy': 1, 'great': 1, 'groovy': 1, 'keen': 1, 'nifty': 1, 'not_bad': 1, 'peachy': 1, 'slap-up': 1, 'swell': 1, 'smashing': 1, 'straight': 1, 'full-strength': 1}
+neat :::: a ::::: 104 :::::: full-strength
+<Context_105/neat.a Besides a list of specific things you wish they would talk about , the following things are helpful additions to the *neat* packet you hand them when you ask them to write the letter .>
+{'neat': 6, 'orderly': 1, 'refined': 1, 'tasteful': 1, 'clean': 1, 'bang-up': 1, 'bully': 1, 'corking': 1, 'cracking': 1, 'dandy': 1, 'great': 1, 'groovy': 1, 'keen': 1, 'nifty': 1, 'not_bad': 1, 'peachy': 1, 'slap-up': 1, 'swell': 1, 'smashing': 1, 'straight': 1, 'full-strength': 1}
+neat :::: a ::::: 105 :::::: full-strength
+<Context_106/neat.a " -4 Time IROC Champion Mark Martin Indy 500 , CART and IROC champion , Al Unser Jr. said , " I watched my father and uncle Bobby race in IROC and as a kid I thought it would be really *neat* if someday I would get an opportunity to run IROC .>
+{'neat': 6, 'orderly': 1, 'refined': 1, 'tasteful': 1, 'clean': 1, 'bang-up': 1, 'bully': 1, 'corking': 1, 'cracking': 1, 'dandy': 1, 'great': 1, 'groovy': 1, 'keen': 1, 'nifty': 1, 'not_bad': 1, 'peachy': 1, 'slap-up': 1, 'swell': 1, 'smashing': 1, 'straight': 1, 'full-strength': 1}
+neat :::: a ::::: 106 :::::: full-strength
+<Context_107/neat.a The Society for Academic Emergency Medicine is a *neat* little bunch of people who are dedicated to furthering the interests of academia and research in the youngest of the medical specialties .>
+{'neat': 6, 'orderly': 1, 'refined': 1, 'tasteful': 1, 'clean': 1, 'bang-up': 1, 'bully': 1, 'corking': 1, 'cracking': 1, 'dandy': 1, 'great': 1, 'groovy': 1, 'keen': 1, 'nifty': 1, 'not_bad': 1, 'peachy': 1, 'slap-up': 1, 'swell': 1, 'smashing': 1, 'straight': 1, 'full-strength': 1}
+neat :::: a ::::: 107 :::::: full-strength
+<Context_108/neat.a A weblog by Tom Coates who thinks up *neat* stuff for Yahoo !>
+{'neat': 6, 'orderly': 1, 'refined': 1, 'tasteful': 1, 'clean': 1, 'bang-up': 1, 'bully': 1, 'corking': 1, 'cracking': 1, 'dandy': 1, 'great': 1, 'groovy': 1, 'keen': 1, 'nifty': 1, 'not_bad': 1, 'peachy': 1, 'slap-up': 1, 'swell': 1, 'smashing': 1, 'straight': 1, 'full-strength': 1}
+neat :::: a ::::: 108 :::::: full-strength
+<Context_109/neat.a But not as odd as the 35 others who bedded down with him each night in a *neat* row down the street on a carpet of cardboard boxes and multicoloured raffia beach mats .>
+{'neat': 6, 'orderly': 1, 'refined': 1, 'tasteful': 1, 'clean': 1, 'bang-up': 1, 'bully': 1, 'corking': 1, 'cracking': 1, 'dandy': 1, 'great': 1, 'groovy': 1, 'keen': 1, 'nifty': 1, 'not_bad': 1, 'peachy': 1, 'slap-up': 1, 'swell': 1, 'smashing': 1, 'straight': 1, 'full-strength': 1}
+neat :::: a ::::: 109 :::::: full-strength
+<Context_110/neat.a Link to the full FEDERAL GOVERNMENT DEBT REPORT with pictures - there are 9 color graphics that tell the whole story - - so , give the next page time to load those *neat* pictures .>
+{'neat': 6, 'orderly': 1, 'refined': 1, 'tasteful': 1, 'clean': 1, 'bang-up': 1, 'bully': 1, 'corking': 1, 'cracking': 1, 'dandy': 1, 'great': 1, 'groovy': 1, 'keen': 1, 'nifty': 1, 'not_bad': 1, 'peachy': 1, 'slap-up': 1, 'swell': 1, 'smashing': 1, 'straight': 1, 'full-strength': 1}
+neat :::: a ::::: 110 :::::: full-strength
+<Context_111/rich.a What are the important variables that create a *rich* online learning experience , one that makes real improvements in academic practice ?>
+{'rich': 12, 'fat': 1, 'fertile': 1, 'productive': 1, 'deep': 1, 'full-bodied': 1, 'racy': 1, 'robust': 1, 'ample': 1, 'copious': 1, 'plenteous': 1, 'plentiful': 1}
+rich :::: a ::::: 111 :::::: plentiful
+<Context_112/rich.a Trees on Anmyeondo used to be thick and lush to the extent of prompting a saying , ¡°You can become *rich* with an axe.&#194;&#161;&#194;&#177; But now only few trees are left due to reckless deforestation since the time of Korea&#194;&#161;&#194;&#175;s liberation from Japanese colonial rule .>
+{'rich': 12, 'fat': 1, 'fertile': 1, 'productive': 1, 'deep': 1, 'full-bodied': 1, 'racy': 1, 'robust': 1, 'ample': 1, 'copious': 1, 'plenteous': 1, 'plentiful': 1}
+rich :::: a ::::: 112 :::::: plentiful
+<Context_113/rich.a No , we 're not talking about the fortunes of a *rich* and powerful democracy .>
+{'rich': 12, 'fat': 1, 'fertile': 1, 'productive': 1, 'deep': 1, 'full-bodied': 1, 'racy': 1, 'robust': 1, 'ample': 1, 'copious': 1, 'plenteous': 1, 'plentiful': 1}
+rich :::: a ::::: 113 :::::: plentiful
+<Context_114/rich.a Functional Foods and Drinks , Sports Drinks , Slimming , Supplements Functional foods : Glico launches this chocolate *rich* in GABA for its relaxing effect .>
+{'rich': 12, 'fat': 1, 'fertile': 1, 'productive': 1, 'deep': 1, 'full-bodied': 1, 'racy': 1, 'robust': 1, 'ample': 1, 'copious': 1, 'plenteous': 1, 'plentiful': 1}
+rich :::: a ::::: 114 :::::: plentiful
+<Context_115/rich.a Africas central problems in the WTO revolve around the imbalances and biases created by *rich* countries in the Uruguay Round Agreement ( URA ) .>
+{'rich': 12, 'fat': 1, 'fertile': 1, 'productive': 1, 'deep': 1, 'full-bodied': 1, 'racy': 1, 'robust': 1, 'ample': 1, 'copious': 1, 'plenteous': 1, 'plentiful': 1}
+rich :::: a ::::: 115 :::::: plentiful
+<Context_116/rich.a Today half the world 's population lives on less than $ 2 a day , 80 percent of the global population has only 20 percent of global GDP , and within each country there is a massive imbalance between *rich* and poor .>
+{'rich': 12, 'fat': 1, 'fertile': 1, 'productive': 1, 'deep': 1, 'full-bodied': 1, 'racy': 1, 'robust': 1, 'ample': 1, 'copious': 1, 'plenteous': 1, 'plentiful': 1}
+rich :::: a ::::: 116 :::::: plentiful
+<Context_117/rich.a Here Wagner , in depicting every shade of sexual love , developed a style *richer* and more chromatic than anyone had previously attempted , using dissonance and its urge for resolution in a continuing pattem to build up tension and a sense of profound yearning ; Act 2 is virtually a continuous love duet , touching every emotion from the tenderest to the most passionately erotic .>
+{'rich': 12, 'fat': 1, 'fertile': 1, 'productive': 1, 'deep': 1, 'full-bodied': 1, 'racy': 1, 'robust': 1, 'ample': 1, 'copious': 1, 'plenteous': 1, 'plentiful': 1}
+rich :::: a ::::: 117 :::::: plentiful
+<Context_118/rich.a He brings an incredibly *rich* and diverse background that includes everything from executive coaching , learning &amp; development and management consulting , to senior operations roles , mixed with a masters in organizational development .>
+{'rich': 12, 'fat': 1, 'fertile': 1, 'productive': 1, 'deep': 1, 'full-bodied': 1, 'racy': 1, 'robust': 1, 'ample': 1, 'copious': 1, 'plenteous': 1, 'plentiful': 1}
+rich :::: a ::::: 118 :::::: plentiful
+<Context_119/rich.a None *Rich* people manage their money well .>
+{'rich': 12, 'fat': 1, 'fertile': 1, 'productive': 1, 'deep': 1, 'full-bodied': 1, 'racy': 1, 'robust': 1, 'ample': 1, 'copious': 1, 'plenteous': 1, 'plentiful': 1}
+rich :::: a ::::: 119 :::::: plentiful
+<Context_120/rich.a I also think that it will probably take the " sword " of nations ( ala Rom 13 ) combined with the good news offered by the body of Christ to touch the hearts and change the ways of the " rich Africans " ( and *rich* Americans and other westerners , frankly ) to bring change .>
+{'rich': 12, 'fat': 1, 'fertile': 1, 'productive': 1, 'deep': 1, 'full-bodied': 1, 'racy': 1, 'robust': 1, 'ample': 1, 'copious': 1, 'plenteous': 1, 'plentiful': 1}
+rich :::: a ::::: 120 :::::: plentiful
+<Context_121/severely.r Rubinstein held the gambit pawn with 4.Bf4 and 7.Qd5 , but his neglect of kingside development was *severely* punished .>
+{'badly': 1, 'severely': 3, 'gravely': 1, 'seriously': 1, 'sternly': 1, 'hard': 1}
+severely :::: r ::::: 121 :::::: hard
+<Context_122/severely.r This veteran , the oldest pensioner in Great Britain , entered the army in 1758 , and was *severely* wounded at the battle of Quebec under General Wolfe , in consequence of which he became an out-pensioner of Chelsea Hospital , and continued so for the period of seventy-five years .>
+{'badly': 1, 'severely': 3, 'gravely': 1, 'seriously': 1, 'sternly': 1, 'hard': 1}
+severely :::: r ::::: 122 :::::: hard
+<Context_123/severely.r Perhaps the effect of West Nile Virus is sufficient to extinguish endemic birds already *severely* stressed by habitat losses .>
+{'badly': 1, 'severely': 3, 'gravely': 1, 'seriously': 1, 'sternly': 1, 'hard': 1}
+severely :::: r ::::: 123 :::::: hard
+<Context_124/severely.r She looked as *severely* as she could muster at Draco .>
+{'badly': 1, 'severely': 3, 'gravely': 1, 'seriously': 1, 'sternly': 1, 'hard': 1}
+severely :::: r ::::: 124 :::::: hard
+<Context_125/severely.r A day before he was due to return to the United States Patton was *severely* injured in a road accident .>
+{'badly': 1, 'severely': 3, 'gravely': 1, 'seriously': 1, 'sternly': 1, 'hard': 1}
+severely :::: r ::::: 125 :::::: hard
+<Context_126/severely.r Use market tools to address environmental issues , such as eliminating subsidies for industries that *severely* harm the environment , like coal .>
+{'badly': 1, 'severely': 3, 'gravely': 1, 'seriously': 1, 'sternly': 1, 'hard': 1}
+severely :::: r ::::: 126 :::::: hard
+<Context_127/severely.r This picture was *severely* damaged in the flood of 1913 and has rarely been seen until now .>
+{'badly': 1, 'severely': 3, 'gravely': 1, 'seriously': 1, 'sternly': 1, 'hard': 1}
+severely :::: r ::::: 127 :::::: hard
+<Context_128/severely.r I was very disappointed when the author did not go into detail about how he regained his faith after having it *severely* undermined by his early studies in theology at university .>
+{'badly': 1, 'severely': 3, 'gravely': 1, 'seriously': 1, 'sternly': 1, 'hard': 1}
+severely :::: r ::::: 128 :::::: hard
+<Context_129/severely.r We do continue to support research on the differentiation of adult precursor cells into beta cells , but that 's a *severely* limited field in terms of how successful it has been .>
+{'badly': 1, 'severely': 3, 'gravely': 1, 'seriously': 1, 'sternly': 1, 'hard': 1}
+severely :::: r ::::: 129 :::::: hard
+<Context_130/severely.r Mutual Funds are so *severely* conflicted that they will not avail themselves of the alleged benefits of the proposed rule .>
+{'badly': 1, 'severely': 3, 'gravely': 1, 'seriously': 1, 'sternly': 1, 'hard': 1}
+severely :::: r ::::: 130 :::::: hard
+<Context_131/stand.v Leaders of some of the most powerful states in the world *stand* by and give the impression that this is just the new way of life for Zimbabweans .>
+{'stand': 12, 'stand_up': 2, 'remain_firm': 1, 'digest': 1, 'endure': 1, 'stick_out': 1, 'stomach': 1, 'bear': 1, 'tolerate': 1, 'support': 1, 'brook': 1, 'abide': 1, 'suffer': 1, 'put_up': 1, 'place_upright': 1, 'resist': 1, 'fend': 1}
+stand :::: v ::::: 131 :::::: fend
+<Context_132/stand.v We cannot *stand* as helpless spectators while millions die for want in a world of plenty .>
+{'stand': 12, 'stand_up': 2, 'remain_firm': 1, 'digest': 1, 'endure': 1, 'stick_out': 1, 'stomach': 1, 'bear': 1, 'tolerate': 1, 'support': 1, 'brook': 1, 'abide': 1, 'suffer': 1, 'put_up': 1, 'place_upright': 1, 'resist': 1, 'fend': 1}
+stand :::: v ::::: 132 :::::: fend
